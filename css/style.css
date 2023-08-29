@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: azure;
+  font-family: serif;
+}
+
+.tituloPrincipal{
+  text-align: center;
+  padding: 10px;
+}
